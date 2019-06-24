@@ -1,0 +1,72 @@
+.header{
+	height: 200px;
+	width: 100%;
+	background-color: #9494b8;
+	top: 0px;
+	position: absolute;
+	left: 0px;
+}
+.container{
+	height: 60px;
+	width: 100%;
+	background-color: #b3d9ff;
+	top: 200px;
+	position: absolute;
+	left: 0px;
+}
+.navsection {
+    height: 45px;
+    background: #373758;
+    display: block;
+}
+.leftsidebar{
+	height: 600px;
+	width: 20%;
+	background-color: #c7cac6;
+	top: 260px;
+	position: absolute;
+	left: 0px;
+}
+.rightsidebar{
+	height: 600px;
+	width: 20%;
+	background-color: #c7cac6;
+	top: 260px;
+	position: absolute;
+	right: 0px;
+}
+.maincontent{
+	height: 600px;
+	width: 60%;
+	background-color: #999966;
+	top: 260px;
+	position: absolute;
+	left: 270px;
+}
+.box{
+	float: right;
+	height: 18px;
+	width: 600px;
+	padding: 5px;
+	margin: 4px;
+}
+.selet{
+	float: right;
+	height: 35px;
+	width: 370px;
+	padding: 5px;
+	margin: 4px;
+}
+.label{
+	float: left;
+	padding: 6px;
+	margin: 2px;
+}
+.footer{
+	height: 100px;
+	width: 100%;
+	background-color: #383838;
+	top: 860px;
+	position: absolute;
+	left: 0px;
+}
