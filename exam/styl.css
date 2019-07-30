@@ -1,0 +1,46 @@
+.header{
+	top: 0px;
+	height: 150px;
+	width: 100%;
+	left: 0px;
+	background-color: #a60059;
+	position: absolute;
+}
+.nev{
+	top: 150px;
+	height: 70px;
+	width: 100%;
+	left: 0px;
+	background-color: #78e3e3;
+	position: absolute;
+}
+.mainfield{
+	top: 220px;
+	height: 700px;
+	width: 100%;
+	left: 0px;
+	background-color: #fafcff;
+	position: absolute;
+}
+.rightsidebar{
+	height: 700px;
+	width: 25%;
+	right: 0px;
+	background-color: #ffccc2;
+	position: absolute;
+}
+.mainsection{
+	height: 700px;
+	width: 75%;
+	left: 0px;
+	background-color: #e8b5c7;
+	position: absolute;
+}
+.footer{
+	top: 920px;
+	height: 100px;
+	width: 100%;
+	left: 0px;
+	background-color: #78479c;
+	position: absolute;
+}
